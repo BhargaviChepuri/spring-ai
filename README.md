@@ -8,3 +8,7 @@ GET:- localhost:8080/query?category=books&year=2014
 ![image](https://github.com/user-attachments/assets/d0550e6d-ef53-434d-908a-587aaa3f5223)
 
 GET:- http://localhost:8080/joke?topic=program
+
+GET:- http://localhost:8080/stream.html
+
+![image](https://github.com/user-attachments/assets/8aa38032-1716-40f7-9bd7-a73972ae2bfa)
